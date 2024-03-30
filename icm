@@ -176,4 +176,4 @@ with tab3:
   st.write('Pandas, streamlit, sklearn, pickle')
  
   st.write('')
-  st.subheader(':blue[_GitHub link:_]')
+  st.subheader(':blue[_GitHub link:https://github.com/Parikshitnh72/copper_modelling_.git]')
